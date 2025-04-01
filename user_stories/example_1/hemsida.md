@@ -1,5 +1,9 @@
 # User Stories för att utveckla en enkel hemsida
 
+I detta exempel utgår vi från att vi har fått ett företag som kund.  
+Företaget vill att vi (jag?) utvecklar en enkel site/hemsida till dom.
+
+
 ## Exempel på kravspecifikation: Enkel hemsida
 
 **Kravspecifikation för en enkel hemsida:**
