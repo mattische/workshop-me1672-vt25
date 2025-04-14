@@ -24,4 +24,4 @@ Vi kommer att prova på planning poker och testa den metoden för att få en kä
 
 [Planning Poker Online](https://planningpokeronline.com/)
 
-https://github.com/
+Mer information om planning poker hos [Atlassian](https://community.atlassian.com/forums/App-Central-articles/Mastering-Planning-Poker-A-Comprehensive-Guide-to-Agile/ba-p/2367611).
