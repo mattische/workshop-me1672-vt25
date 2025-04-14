@@ -10,7 +10,7 @@ Use cases beskriver interaktionen mellan användare och systemet för att uppnå
 
 Mer om Use Cases;
 
-- https://www.atlassian.com/agile/requirements-management/user-cases
+- https://www.atlassian.com/agile/requirements-management/user-cases](https://www.wrike.com/blog/what-is-a-use-case/
 - https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/usability-evaluation
 
 
