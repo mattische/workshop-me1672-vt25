@@ -21,9 +21,6 @@ Det är rekommenderat att man inför workshopen tar del av följande material p�
 
 Genomgång vad User stories är; varför, vad och hur.
 
-### Kort om Github Project
-
-En kort visning av GH Project (projekt för detta repo) som ett alternativ till t ex Trello.
 
 ### 1. Övning User stories
 
