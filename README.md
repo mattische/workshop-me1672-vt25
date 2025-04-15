@@ -57,3 +57,11 @@ Vi kommer att prova på planning poker och testa den metoden för att få en kä
 [Planning Poker Online](https://planningpokeronline.com/)
 
 Mer information om planning poker hos [Atlassian](https://community.atlassian.com/forums/App-Central-articles/Mastering-Planning-Poker-A-Comprehensive-Guide-to-Agile/ba-p/2367611).
+
+### Inspelning/Video
+
+Videoklipp från genomgången:
+
+<iframe width="560" height="315" src="[https://www.youtube.com](https://www.youtube.com/embed/IFsaAjoML3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
