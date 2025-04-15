@@ -18,7 +18,44 @@ Projektet hittar du i detta repot - se ovan länkar under [Projects](https://git
 
 Som alternativ kan du t ex använda dig av Trello, men då kan du inte följa med på samma sätt.
 
-## Planning poker
+---
+
+## Genomförande
+
+### User stories
+
+Genomgång vad User stories är; varför, vad och hur.
+
+### Kort om Github Project
+
+En kort visning av GH Project (projekt för detta repo) som ett alternativ till t ex Trello.
+
+### 1. Övning User stories
+
+Kort genomgång om vad man ska göra i grupp; en övning att skapa User stories.
+
+Återsamling och diskussion kring några exempel från grupperna.
+
+### 2. Övning Tasks
+
+Kort genomgång av övningen; bryta ned User stories i tasks (uppgifter).
+
+Återsamling och diksussion.
+
+### 3. Estimering med Planning poker
+
+Kort genomgång av övningen; att estimera tasks med "Planning poker".
+
+Återsamling och avslut.
+
+
+### Material
+
+Se i mappen 'pdf' i detta repo.
+
+
+
+### Planning poker
 
 Vi kommer att prova på planning poker och testa den metoden för att få en känsla för hur man kan estimera;
 
